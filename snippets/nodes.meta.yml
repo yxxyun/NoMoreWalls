@@ -115,22 +115,6 @@ proxies:
   sni: apple.com
   type: hysteria
   up: 1000
-- name: 🇩🇪 - DE - @freeOnlineVPN
-  password: 250ff1f0-5b79-4d9e-a677-2bb7e6a7ee13
-  port: 57300
-  server: sfjxjp.sufujia.top
-  skip-cert-verify: true
-  sni: sfjxjp.sufujia.top
-  tls: false
-  type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇹🇼'
-  password: 308d37dc-cfe1-4d81-a095-d576f90cf581
-  port: 29854
-  server: 85.237.206.207
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: https://t.me/Selinc
   password: 30c075af-9555-4671-b70e-43e3cfb2e707
   port: 7009
@@ -155,7 +139,7 @@ proxies:
   sni: hshl.huasuan666.top
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇺🇸 #1'
+- name: 'Channel id: @ShadowProxy66🇺🇸'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: lsj3.mangshe.xyz
@@ -163,7 +147,7 @@ proxies:
   sni: lsj3.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #6'
+- name: '🇳🇱 - NL - @freeOnlineVPN #5'
   obfs: salamander
   obfs-password: GdQ4bgvT8RFwuWi2
   password: 8864aa9f-7517-4fd5-aef1-32050eb3095d
@@ -191,7 +175,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #10'
+- name: '🇳🇱@FreakConfig #7'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -201,7 +185,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #19'
+- name: '🇳🇱@FreakConfig #9'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -211,7 +195,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇺🇸 #3'
+- name: 'Channel id: @ShadowProxy66🇺🇸 #2'
   obfs: salamander
   obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
   password: a060b3f7-551e-4a7f-8138-fef404c5b012
@@ -220,7 +204,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: MCI--@V2rayAlpha--7
+- name: All--@V2rayAlpha--1
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -374,16 +358,6 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: MCI--@V2rayAlpha--8
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: 5fbe139f-c1e0-4b92-bb3c-7f68035962c3
-  port: 33659
-  server: hl.dport.top
-  skip-cert-verify: true
-  sni: hl.dport.top
-  tls: false
-  type: hysteria2
 - name: 🇳🇱@FreakConfig
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -486,7 +460,7 @@ proxies:
   sni: drhystuichdfy.samanidempire.org
   tls: false
   type: hysteria2
-- name: '🇸🇪 - SE - @freeOnlineVPN #4'
+- name: 'All-@IRAN_V2RAY1 #2'
   obfs: salamander
   obfs-password: U1wBrYQyFm
   password: 80747420-96c4-4a2f-83e6-eea4e46beb09
@@ -506,7 +480,7 @@ proxies:
   sni: net2025.afsharidempire.ukr♡ya
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #7'
+- name: All--@V2rayAlpha--8
   obfs: salamander
   obfs-password: GdQ4bgvT8RFwuWi2
   password: 8864aa9f-7517-4fd5-aef1-32050eb3095d
@@ -585,7 +559,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #11'
+- name: '🇳🇱 - NL - @freeOnlineVPN #8'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -595,7 +569,7 @@ proxies:
   sni: YAPC-1.afshin.irr♡ya
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #12'
+- name: '🇳🇱 - NL - @freeOnlineVPN #9'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -605,7 +579,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #13'
+- name: '🇳🇱 - NL - @freeOnlineVPN #10'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -615,7 +589,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #16'
+- name: '🇳🇱@FreakConfig #8'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -625,7 +599,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #21'
+- name: 'All-@IRAN_V2RAY1 #5'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -635,7 +609,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #24'
+- name: 'MCI-@V2rayAlpha--3 #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -706,7 +680,7 @@ proxies:
   sni: fus01.mistea.top
   tls: false
   type: hysteria2
-- name: telegram--MTMVPN 4
+- name: ✅ @vistav2ray  👈👈کانال ما
   password: c232f411-96b5-4b07-b2f7-66a434725ffb
   port: 23899
   server: 193.142.59.41
@@ -714,7 +688,7 @@ proxies:
   sni: hl01.mistea.top
   tls: false
   type: hysteria2
-- name: '@meli_proxyy #8'
+- name: '@meli_proxyy #9'
   password: c232f411-96b5-4b07-b2f7-66a434725ffb
   port: 23892
   server: 38.45.89.97
@@ -774,7 +748,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: ✅ @vistav2ray  👈👈کانال ما
+- name: '✅ @vistav2ray  👈👈کانال ما #1'
   password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1
   port: 30000
   server: nl1.oomz.ru
