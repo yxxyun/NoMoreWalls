@@ -124,6 +124,54 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 'Channel id: @ShadowProxy66🇺🇸'
+  password: af7ddbb2-3567-11ec-bd7c-f23c913c8d2b
+  port: 443
+  server: 97cc76e9-t53wg0-tiqsce-t6fv.us.hyhuawei.com
+  sni: 97cc76e9-t53wg0-tiqsce-t6fv.us.hyhuawei.com
+  tls: false
+  type: hysteria2
+- name: 🇺🇲@FreakConfig
+  password: c232f411-96b5-4b07-b2f7-66a434725ffb
+  port: 23891
+  server: 108.165.213.197
+  skip-cert-verify: true
+  sni: fus01.mistea.top
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @ShadowProxy66🇺🇸 #2'
+  password: c6bccea3-2f03-4f3e-80f4-d6757f1f3f46
+  port: 41951
+  server: 192.3.60.176
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @ShadowProxy66🇭🇰'
+  obfs: salamander
+  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+  password: d84e954e-0e96-4cd9-8b23-5b74ddc1b758
+  port: 31008
+  server: 212.192.13.86
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @ShadowProxy66🇨🇦'
+  password: dcdd09ad-4519-46f7-8107-4c4290a9b2a3
+  port: 13805
+  server: 40.233.115.110
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @ShadowProxy66🇭🇰 #1'
+  password: f13f964e-f06c-11ec-a858-f23c91cfbbc9
+  port: 443
+  server: 119.236.85.21
+  skip-cert-verify: true
+  sni: WangCai.hk2.hyhuawei.com
+  tls: false
+  type: hysteria2
 - name: '@Mr_Config_Group✌️'
   obfs: salamander
   obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon
@@ -435,7 +483,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'MCI-@V2rayAlpha--1 #1'
+- name: '🇸🇪 - SE - @freeOnlineVPN #2'
   obfs: salamander
   obfs-password: U1wBrYQyFm
   password: 80747420-96c4-4a2f-83e6-eea4e46beb09
@@ -445,7 +493,7 @@ proxies:
   sni: drhystuichdfy.samanidempire.org
   tls: false
   type: hysteria2
-- name: 'All--@V2rayAlpha--5 #1'
+- name: '🇸🇪 - SE - @freeOnlineVPN #4'
   obfs: salamander
   obfs-password: U1wBrYQyFm
   password: 80747420-96c4-4a2f-83e6-eea4e46beb09
@@ -455,7 +503,7 @@ proxies:
   sni: drhystuichdfy.samanidempire.org
   tls: false
   type: hysteria2
-- name: 'MCI-@V2rayAlpha--3 #1'
+- name: '🇳🇱 - NL - @freeOnlineVPN #1'
   obfs: salamander
   obfs-password: GdQ4bgvT8RFwuWi2
   password: 8864aa9f-7517-4fd5-aef1-32050eb3095d
@@ -465,7 +513,7 @@ proxies:
   sni: net2025.afsharidempire.uk
   tls: false
   type: hysteria2
-- name: All--@V2rayAlpha--8
+- name: '🇳🇱 - NL - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: GdQ4bgvT8RFwuWi2
   password: 8864aa9f-7517-4fd5-aef1-32050eb3095d
@@ -697,7 +745,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #2'
+- name: '🇳🇱 - NL - @freeOnlineVPN #5'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -707,7 +755,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #3'
+- name: '🇳🇱 - NL - @freeOnlineVPN #8'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -717,7 +765,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #4'
+- name: '🇳🇱 - NL - @freeOnlineVPN #11'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -727,7 +775,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@IRAN_V2RAY1 #5'
+- name: '🇳🇱 - NL - @freeOnlineVPN #13'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -737,7 +785,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #2'
+- name: '🇳🇱 - NL - @freeOnlineVPN #17'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -774,7 +822,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 🇬🇧@FreakConfig
+- name: '🇬🇧 - GB - @freeOnlineVPN #1'
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
@@ -800,7 +848,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: MTN--@IRAN_V2RAY1
+- name: '🇳🇱 - NL - @freeOnlineVPN #19'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -808,14 +856,6 @@ proxies:
   server: 206.71.158.41
   skip-cert-verify: true
   sni: jnir.pichondan.com
-  tls: false
-  type: hysteria2
-- name: 🇺🇲@FreakConfig
-  password: c232f411-96b5-4b07-b2f7-66a434725ffb
-  port: 23891
-  server: 108.165.213.197
-  skip-cert-verify: true
-  sni: fus01.mistea.top
   tls: false
   type: hysteria2
 - name: ✅ @vistav2ray  👈👈کانال ما
