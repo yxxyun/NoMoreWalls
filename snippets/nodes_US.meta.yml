@@ -76,6 +76,7 @@ proxies:
   password: 76d630f2af6619c4a5de0ef953df3c6a
   port: 4054
   server: 160.16.223.205
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 美国2|@ripaojiedian
@@ -101,6 +102,7 @@ proxies:
   port: '443'
   server: 104.19.61.72
   servername: hk.nbee.pp.ua
+  skip-cert-verify: false
   tls: true
   type: vmess
   uuid: 4bf075f5-4d5e-4d39-f5ab-b32a86250f0e
