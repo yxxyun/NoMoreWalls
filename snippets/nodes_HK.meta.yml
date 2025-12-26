@@ -16,37 +16,6 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 🇭🇰 香港4|@ripaojiedian
-  password: BxceQaOe
-  port: 443
-  server: 58.152.25.71
-  skip-cert-verify: true
-  sni: t.me%2Fripaojiedian
-  type: trojan
-- name: 🇭🇰 香港5|@ripaojiedian
-  password: BxceQaOe
-  port: 443
-  server: 58.152.26.107
-  skip-cert-verify: true
-  sni: t.me%2Fripaojiedian
-  type: trojan
-- name: 🇭🇰 香港6|@ripaojiedian
-  password: cfdf8794-5365-41ac-9e59-573aab964b3e
-  port: 31103
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: false
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- alterId: 2
-  cipher: auto
-  name: 香港|@ripaojiedian
-  network: tcp
-  port: '30807'
-  server: v10.hdacd.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - name: 香港4|@ripaojiedian
   network: tcp
   password: BxceQaOe
@@ -63,3 +32,13 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
+- alterId: 2
+  cipher: auto
+  name: 香港|@ripaojiedian
+  network: tcp
+  port: '30807'
+  server: v10.hdacd.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
